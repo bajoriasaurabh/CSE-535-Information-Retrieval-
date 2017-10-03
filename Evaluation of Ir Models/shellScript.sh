@@ -1,0 +1,1 @@
+/home/ubuntu/trec_eval.9.0/trec_eval -q -c -M 1000 /home/ubuntu/qrel.txt /home/ubuntu/$1.txt > /home/ubuntu/$1_output.txt
